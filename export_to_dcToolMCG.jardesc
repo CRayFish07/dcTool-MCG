@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Administrator/Desktop/dcTool-mcg/dcTool-MCG.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/dcTool-MCG/export_to_dcToolMCG.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=dcTool-MCG/src&lt;org.mybatis.generator.api{ShellRunner.java[ShellRunner" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/dcTool-MCG/lib"/>
+        <javaElement handleIdentifier="=dcTool-MCG/src"/>
+    </selectedElements>
+</jardesc>

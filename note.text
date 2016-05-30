@@ -1,0 +1,7 @@
+dcTool-mybatis-code-generator
+
+mybatis 代码生成工具
+根据mybatisgenerator 1.3.2版本做了二次开发
+
+
+代码生成器使用注意事项：如果用户自己添加的代码，重新生成之后回覆盖，小心使用！
